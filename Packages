@@ -4,7 +4,7 @@ Section: Themes
 Maintainer: emmanuel.tesauro@gmail.com
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
-Filename: ./deb_files/tenuis.deb
+Filename: ./debs/tenuis.deb
 Size: 483566
 MD5sum: 0ea5906e853d543e060ce567d59d9896
 Description: This is the  beta of Tenuis, a new simple theme for all you device!
