@@ -1,0 +1,18 @@
+Package: com.Emuu.Tenuis
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: emmanuel.tesauro@gmail.com
+Depends: com.anemonetheming.anemone
+Filename: ./debs/tema.deb
+Size: 483566
+MD5sum: ee5f3b8ca70e4a3a621152de041070b5
+SHA1: 74abe821b215d16c5c5dcc0b25a4e29edf332bb5
+SHA256: e1d62a477a8440c62d2b00c431d30728ff74d7ec6c30def80d3d1c9bf82aaeb9
+Section: Themes
+Homepage: http://modmyi.com/
+Description: This is the  beta of Tenuis, a new simple theme for all you device!
+Author: Emuu
+MD5: 07c3519cec7bbf5db03d420b5ced2ca2
+Name: Tenuis
+Sponsor: ModMyi.com
+
