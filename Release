@@ -1,6 +1,6 @@
 Origin: Emuudev
 Label: emuudev.github.io
-Suite: stableVersion: 1
+Suite: stable
 Codename: Emuudev
 Architectures: iphoneos-arm
 Components: main
