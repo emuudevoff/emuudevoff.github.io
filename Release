@@ -1,13 +1,7 @@
 Origin: Emuudev
-
 Label: Emuu
-
 Suite: stableVersion: 1
-
 Codename: Emuudev
-
 Architectures: iphoneos-arm
-
 Components: main
-
 Description: This is a repo test.
