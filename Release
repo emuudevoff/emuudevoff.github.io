@@ -1,0 +1,9 @@
+Origin: EmuuDev repo
+Label: Emuu
+Suite: stable
+Version: 1.0
+Codename: EmuuDev repo
+Architectures: iphoneos-arm
+Components: main
+Description: Test
+
