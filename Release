@@ -1,7 +1,0 @@
-Origin: EmuuDev
-Label: EmuDev Official Repository
-Suite: stableVersion: 1
-Codename: EmuuDev
-Architectures: iphoneos-arm
-Components: main
-Description: Prova
