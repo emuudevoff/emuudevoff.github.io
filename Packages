@@ -1,0 +1,15 @@
+Package: com.emuu.Tenuis
+Version: 1.0
+Section: Themes
+Maintainer: emuu <emmanuel.tesauo@gmail.com>
+Depends: Anemone
+Architecture: iphoneos-arm
+Filename: ./debs/Tenuiss.deb
+Size: 483776
+MD5sum: 53bb2d670a53624dc5ec0f02c207b57c
+Description: This is a simple theme for all iOS 9 devices! Enjoy!
+Name: Tenuis
+Author: emuu <emmanuel.tesauro@gmail.com>
+Sponsor: Twitter <twitter.com>
+Homepage: http://twitter.com/Emuu_Dev
+
